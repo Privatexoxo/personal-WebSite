@@ -2938,15 +2938,15 @@ button:disabled,
 }
 
 .tiles article:nth-child(6n - 4):before {
-  background-color: #849094;
+  background-color: #84909495;
 }
 
 .tiles article:nth-child(6n - 3):before {
-  background-color: #ec8d81;
+  background-color: #6d3c36b4;
 }
 
 .tiles article:nth-child(6n - 2):before {
-  background-color: #e7b788;
+  background-color: #e1e788bf;
 }
 
 .tiles article:nth-child(6n - 1):before {
